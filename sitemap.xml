@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://toolmintyoutuber.github.io/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/Privacy-Policy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/disclaimer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/Articals.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolmintyoutuber.github.io/sitemaps.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- YouTube & Social Media Tools -->
+  <url><loc>https://toolmintyoutuber.github.io/multi-live.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-short-preview.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/multi-browser.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/multi-browser2.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-view-checker.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-thumbnail.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-tool.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/Tags.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/instagram.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/instaVelocity.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/tiktok-multi-brower.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/bilibili-multi.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/twitch-browser.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/Kick-browser.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-sine.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/insta-sine.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/TikTok-seo.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/facebook-multi.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/Fbvolocity.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/Anything-qr.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/youtube-channel-audit.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-audit.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/private-message.html</loc></url>
+
+  <!-- PDF, Image & Utility Tools -->
+  <url><loc>https://toolmintyoutuber.github.io/insta-tool.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-booster.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-ads1.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-ads3.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-ads4.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/website-ads5.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/handwriting.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/image-converter.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/text-to-doc.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/zip-converter.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/image-compressor.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/pdf-compress.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/photo-to-pdf.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/pdf-crop.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/pdf-merge.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/video-to-image.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/emi.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/Yt-keyword.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/mp3.html</loc></url>
+  <url><loc>https://toolmintyoutuber.github.io/multi.html</loc></url>
+
+</urlset>
